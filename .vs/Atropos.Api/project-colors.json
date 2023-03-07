@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f59f21a6-c18c-42b2-a068-81f2f57e28bc": {
+      "ProjectGuid": "f59f21a6-c18c-42b2-a068-81f2f57e28bc",
+      "DisplayName": "Atropos.Api",
+      "ColorIndex": 0
+    },
+    "b3156eab-b270-4c24-83bb-f7813ccbb5aa": {
+      "ProjectGuid": "b3156eab-b270-4c24-83bb-f7813ccbb5aa",
+      "DisplayName": "Atropos.Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,14 @@
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\bin\Debug\net6.0\Atropos.Data.deps.json
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\bin\Debug\net6.0\Atropos.Data.dll
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\bin\Debug\net6.0\ref\Atropos.Data.dll
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\bin\Debug\net6.0\Atropos.Data.pdb
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\Atropos.Data.csproj.AssemblyReference.cache
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\Atropos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\Atropos.Data.AssemblyInfoInputs.cache
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\Atropos.Data.AssemblyInfo.cs
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\Atropos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\Atropos.Data.dll
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\ref\Atropos.Data.dll
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\Atropos.Data.pdb
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\bin\Debug\net6.0\Atropos.Data.runtimeconfig.json
+C:\Users\Sameque\Desktop\Projetos\Atropos Back-End\Atropos.Api\Atropos.Data\obj\Debug\net6.0\Atropos.Data.genruntimeconfig.cache

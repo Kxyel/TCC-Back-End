@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atropos.Api", "Atropos.Api\Atropos.Api.csproj", "{F59F21A6-C18C-42B2-A068-81F2F57E28BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atropos.Data", "Atropos.Data\Atropos.Data.csproj", "{B3156EAB-B270-4C24-83BB-F7813CCBB5AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F59F21A6-C18C-42B2-A068-81F2F57E28BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59F21A6-C18C-42B2-A068-81F2F57E28BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59F21A6-C18C-42B2-A068-81F2F57E28BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59F21A6-C18C-42B2-A068-81F2F57E28BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3156EAB-B270-4C24-83BB-F7813CCBB5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3156EAB-B270-4C24-83BB-F7813CCBB5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3156EAB-B270-4C24-83BB-F7813CCBB5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3156EAB-B270-4C24-83BB-F7813CCBB5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E798E1CE-6DEF-44F2-8E8A-BFC148706077}
+	EndGlobalSection
+EndGlobal

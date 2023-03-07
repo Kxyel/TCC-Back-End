@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5dxWDlrj7qKXTa769Uk6w7kfMnrSx3Fp7HXK07Lsxh4=",
+  "Source": "Atropos.Api",
+  "BasePath": "_content/Atropos.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
